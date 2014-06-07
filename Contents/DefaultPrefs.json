@@ -1,0 +1,9 @@
+[
+        {
+                "id": "langPref",
+                "label": "Subtitle Language",
+                "type": "enum",
+                "values": ["ar","bg","nl","en","fr","de","el","hu","it","ko","pl","pt","ro","ru","es","tr","uk"],
+                "default": "en"
+        }     
+]
