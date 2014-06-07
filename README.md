@@ -11,21 +11,22 @@ Rename folder from "TvSubtitlesNet.bundle-master" to "TvSubtitlesNet.bundle"
 
 Choose preferred language at settings.
 
-Language support: Arabic
-                  Brazilian
-                  Bulgarian
-                  Dutch
-                  English
-                  French
-                  German
-                  Greek
-                  Hungarian
-                  Italian
-                  Korean
-                  Polish
-                  Portuguese
-                  Romanian
-                  Russian
-                  Spanish
-                  Turkish
+Language support: Arabic,
+                  Brazilian,
+                  Bulgarian,
+                  Dutch,
+                  English,
+                  French,
+                  German,
+                  Greek,
+                  Hungarian,
+                  Italian,
+                  Korean,
+                  Polish,
+                  Portuguese,
+                  Romanian,
+                  Russian,
+                  Spanish,
+                  Turkish,
                   Ukranian
+
